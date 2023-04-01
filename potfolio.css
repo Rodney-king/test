@@ -1,0 +1,28 @@
+body{
+    background-image: url("images/moon.jpeg");
+}
+.sub{
+    margin-right: 50px;
+    margin-top: 20%;
+}
+.sub h1{
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+}
+.sub p{
+    color: white;
+    font-size: 20px;
+    font-style: oblique;
+}
+.contact {
+    margin-top: 40%;
+
+}
+.contact h1{
+      color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+}
